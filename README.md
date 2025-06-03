@@ -8,15 +8,15 @@
 
 ### 📊 End-to-End BI System
 - A full pipeline from raw data to dashboards using PostgreSQL, dbt, Airflow, and Power BI.
-- [Repo Link](https://github.com/yourusername/bi-ecommerce-analytics-pipeline)
+- [Repo Link](https://github.com/rohanj12/bi-ecommerce-analytics-pipeline)
 
 ### ⚡ Real-Time Analytics Platform
 - Real-time user clickstream simulation with Kafka + Spark + PostgreSQL + Grafana.
-- [Repo Link](https://github.com/yourusername/real-time-clickstream-analytics)
+- [Repo Link](https://github.com/rohanj12/real-time-clickstream-analytics)
 
 ### 🤖 AI Financial Advisor
 - Uses OpenAI + LangChain + Streamlit to suggest personalized financial plans.
-- [Repo Link](https://github.com/yourusername/ai-financial-advisor)
+- [Repo Link](https://github.com/rohanj12/ai-financial-advisor)
 
 ## 🛠️ Skills
 SQL · Python · Tableau · Power BI · AWS · Kafka · Spark · Airflow · dbt · Scikit-learn · LangChain
