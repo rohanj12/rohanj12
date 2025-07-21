@@ -8,7 +8,7 @@
 
 ### ⚡ Real-Time Analytics Platform
 - Real-time user clickstream simulation with Kafka + Spark + PostgreSQL + Grafana.
-- [Repo Link](https://github.com/rohanj12/real-time-clickstream-analytics)
+- [Repo Link](https://github.com/rohanj12/realtime-analytics-pipeline)
 
 
 ## 🛠️ Skills
