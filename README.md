@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rohan Jairam
 
 🎓 MS in Business Analytics | 🧠 AI & Cloud Enthusiast | 🇺🇸 U.S. Citizen  
-🔭 Currently working on: End-to-End BI System, Real-Time Analytics, AI Financial Advisor  
+🔭 Currently working on: End-to-End BI System, Real-Time Analytics Pipeline  
 📫 Reach me at: rohan.jairam04@gmail.com | [LinkedIn](https://www.linkedin.com/in/rohan-jairam-/)
 
 ## 📌 Featured Project
