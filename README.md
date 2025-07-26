@@ -4,11 +4,15 @@
 🔭 Currently working on: End-to-End BI System, Real-Time Analytics Pipeline  
 📫 Reach me at: rohan.jairam04@gmail.com | [LinkedIn](https://www.linkedin.com/in/rohan-jairam-/)
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### ⚡ Real-Time Analytics Platform
 - Real-time user clickstream simulation with Kafka + Spark + PostgreSQL + Grafana.
 - [Repo Link](https://github.com/rohanj12/realtime-analytics-pipeline)
+
+### ⚡ Saas User Analytics and Churn Dashboard
+- Uncover churn drivers, retention trends, and feature adoption patterns, and delivers actionable insights with Python + Tableau + Streamlit + LLM
+- [Repo Link](https://github.com/rohanj12/saas-user-analytics)
 
 
 ## 🛠️ Skills
