@@ -6,6 +6,10 @@
 
 ## 📌 Featured Projects
 
+### 💬 Conversational Analytics Dashboard
+- Chat-driven insights from CSVs using GPT-4, Pandas, Matplotlib, and Streamlit.
+- [Repo Link](https://github.com/rohanj12/conversational-analytics-dashboard)
+
 ### ⚡ Real-Time Analytics Platform
 - Real-time user clickstream simulation with Kafka + Spark + PostgreSQL + Grafana.
 - [Repo Link](https://github.com/rohanj12/realtime-analytics-pipeline)
@@ -13,10 +17,6 @@
 ### ⚡ Saas User Analytics and Churn Dashboard
 - Uncover churn drivers, retention trends, and feature adoption patterns, and delivers actionable insights with Python + Tableau + Streamlit + LLM
 - [Repo Link](https://github.com/rohanj12/saas-user-analytics)
-
-### 💬 Conversational Analytics Dashboard
-- Chat-driven insights from CSVs using GPT-4, Pandas, Matplotlib, and Streamlit.
-- [Repo Link](https://github.com/rohanj12/conversational-analytics-dashboard)
 
 ## 🛠️ Skills
 SQL · Python · Tableau · Power BI · AWS · Kafka · Spark · Airflow · dbt · Scikit-learn  · OpenAI · Streamlit
