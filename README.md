@@ -2,7 +2,8 @@
 
 🎓 MS in Business Analytics | 🧠 AI & Cloud Enthusiast | 🇺🇸 U.S. Citizen   
 📫 Contact: rohan.jairam04@gmail.com 
-Reach me at: <a href="https://www.linkedin.com/in/rohan-jairam-/" target="blank">
+Reach me at: 
+<a href="https://www.linkedin.com/in/rohan-jairam-/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
