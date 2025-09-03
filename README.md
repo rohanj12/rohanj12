@@ -4,7 +4,7 @@
 🔭 Currently working on: End-to-End BI System, Real-Time Analytics Pipeline  
 📫 Reach me at: rohan.jairam04@gmail.com | [LinkedIn](https://www.linkedin.com/in/rohan-jairam-/)
 
-![image] (https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true)
+![image](https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true)
 
 ## 📌 Featured Projects
 
