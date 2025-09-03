@@ -21,6 +21,7 @@
 
 ## 🛠️ Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,tableau,openai,figma&theme=light)](https://skillicons.dev)
+
 SQL · Python · Tableau · Power BI · AWS · Kafka · Spark · Airflow · dbt · Scikit-learn  · OpenAI · Streamlit
 
 <!--
