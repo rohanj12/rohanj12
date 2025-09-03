@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Rohan Jairam
 
 🎓 MS in Business Analytics | 🧠 AI & Cloud Enthusiast | 🇺🇸 U.S. Citizen   
-📫 Reach me at: rohan.jairam04@gmail.com | [LinkedIn](https://www.linkedin.com/in/rohan-jairam-/)
+📫 Contact: rohan.jairam04@gmail.com 
+Reach me at: <a href="https://www.linkedin.com/in/rohan-jairam-/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
 ![image](https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true)
 
