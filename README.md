@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-![image](https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true)
+<img src="https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true" style="width:40%;">
 
 ## 📌 Featured Projects
 
