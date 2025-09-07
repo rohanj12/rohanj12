@@ -1,57 +1,77 @@
-# 👋 Hi, I'm Rohan Jairam
+<!-- Banner (optional – you can design one on Canva and host it here) -->
+<p align="center">
+  <img src="https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true" width="220" style="border-radius:50%">
+</p>
 
-🎓 MS in Business Analytics | 🧠 AI & Cloud Enthusiast | 🇺🇸 U.S. Citizen   
-📫 Contact: rohan.jairam04@gmail.com 
-
-**Reach or connect with me on LinkedIn using the following below:**
-
-<a href="https://www.linkedin.com/in/rohan-jairam-/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<img src="https://github.com/rohanj12/rohanj12/blob/main/ProfilePic.jpg?raw=true" style="width:40%;">
-
-## 📌 Featured Projects
-
-### 💬 Conversational Analytics Dashboard
-- Chat-driven insights from CSVs using GPT-4, Pandas, Matplotlib, and Streamlit.
-- [Repo Link](https://github.com/rohanj12/conversational-analytics-dashboard)
-
-### ⚡ Real-Time Analytics Platform
-- Real-time user clickstream simulation with Kafka + Spark + PostgreSQL + Grafana.
-- [Repo Link](https://github.com/rohanj12/realtime-analytics-pipeline)
-
-### ⚡ Saas User Analytics and Churn Dashboard
-- Uncover churn drivers, retention trends, and feature adoption patterns, and delivers actionable insights with Python + Tableau + Streamlit + LLM
-- [Repo Link](https://github.com/rohanj12/saas-user-analytics)
-
-## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=mysql,aws,docker,git,github,python,tensorflow,sklearn)](https://skillicons.dev)
-
-SQL · Python · Tableau · Power BI · AWS · Kafka · Spark · Airflow · dbt · Scikit-learn  · OpenAI · Streamlit
-
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanj12&show_icons=true&theme=gruvbox)
+<h1 align="center">Hi 👋, I'm Rohan Jairam</h1>
+<h3 align="center">MS in Business Analytics | Data & Cloud Enthusiast | U.S. Citizen</h3>
 
 ---
 
-<!--
-**rohanj12/rohanj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 **MS in Business Analytics** from Arizona State University (Dec 2024)  
+- 💼 Actively seeking **Data Analyst / Business Analyst / Data Engineer** roles  
+- ☁️ Passionate about building **end-to-end cloud-native analytics & AI systems**  
+- 🧩 Strong foundation in **SQL, Python, Tableau, AWS, Kafka, Spark, dbt, Airflow**  
+- 📊 Love turning **raw data → insights → impact**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+
+**Languages & Analytics**  
+`Python` `SQL` `R` `Pandas` `NumPy` `Scikit-learn`  
+
+**Cloud & Big Data**  
+`AWS` `Snowflake` `Spark` `Kafka` `Airflow` `dbt`  
+
+**Visualization & BI**  
+`Tableau` `Power BI` `Matplotlib` `Streamlit`  
+
+**Machine Learning & AI**  
+`XGBoost` `NLP` `OpenAI API` `LLMs`  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 [Conversational Analytics Dashboard](https://github.com/rohanj12/conversational-analytics-dashboard)  
+*Streamlit + GPT-4 powered dashboard for natural language data exploration*  
+- Built a chatbot that converts **plain English → SQL queries → data insights**  
+- Enabled **chart generation & anomaly explanations** dynamically  
+- Tech stack: `Python`, `Pandas`, `Matplotlib`, `Streamlit`, `OpenAI API`  
+
+---
+
+### 🔹 [Real-Time Analytics Platform](https://github.com/rohanj12/real-time-analytics-pipeline)  
+*End-to-end clickstream pipeline for streaming analytics*  
+- Simulated & ingested **100K+ events/minute** with `Kafka`  
+- Processed in **10s micro-batches** using `Spark Structured Streaming`  
+- Stored results in `PostgreSQL`, visualized on **Grafana dashboards**  
+- Tech stack: `Kafka`, `Zookeeper`, `Spark`, `PostgreSQL`, `Grafana`, `Docker`  
+
+---
+
+### 🔹 [SaaS User Analytics & Churn Dashboard](https://github.com/rohanj12/saas-user-analytics)  
+*Dashboard to analyze SaaS metrics and predict churn*  
+- Designed **retention and churn analysis** dashboards in Tableau  
+- Integrated **LLM-powered insights** via `Streamlit` for user queries  
+- Provided actionable metrics (LTV, ARPU, MRR) to simulate real SaaS reporting  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanj12&show_icons=true&theme=radical" alt="stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanj12&theme=radical" alt="streak" width="48%">
+</p>
+
+---
+
+## 📫 Let’s Connect!  
+- 💼 [LinkedIn](https://linkedin.com/in/rohanjairam)  
+- 📧 **rohan.jairam04@gmail.com**  
+- 🌐 Portfolio website (coming soon 🚀)  
+
+---
