@@ -12,7 +12,6 @@
 - 🎓 **MS in Business Analytics** from Arizona State University (Dec 2024)  
 - 💼 Actively seeking **Data Analyst / Business Analyst / Data Engineer** roles  
 - ☁️ Passionate about building **end-to-end cloud-native analytics & AI systems**  
-- 🧩 Strong foundation in **SQL, Python, Tableau, AWS, Kafka, Spark, dbt, Airflow**  
 - 📊 Love turning **raw data → insights → impact**  
 
 ---
@@ -43,7 +42,7 @@
 
 ---
 
-### 🔹 [Real-Time Analytics Platform](https://github.com/rohanj12/real-time-analytics-pipeline)  
+### 🔹 [Real-Time Analytics Platform](https://github.com/rohanj12/realtime-analytics-pipeline)  
 *End-to-end clickstream pipeline for streaming analytics*  
 - Simulated & ingested **100K+ events/minute** with `Kafka`  
 - Processed in **10s micro-batches** using `Spark Structured Streaming`  
