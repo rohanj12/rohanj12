@@ -30,6 +30,17 @@
 
 SQL · Python · Tableau · Power BI · AWS · Kafka · Spark · Airflow · dbt · Scikit-learn  · OpenAI · Streamlit
 
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanj12&show_icons=true&theme=gruvbox)
+
+---
+
 <!--
 **rohanj12/rohanj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
